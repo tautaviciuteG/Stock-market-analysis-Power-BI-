@@ -1,12 +1,9 @@
 Stock Market Analysis – Power BI
 
 A Power BI project for global stock market analysis, covering sector performance, financial ratios, fundamentals, Magic Formula screening, and interactive dashboards. Built using TradingView data and custom DAX measures.
-
-⚠️ Disclaimer: This project is for educational and analytical purposes only and does not constitute financial or investment advice.
-
-
-
-📁 Project Overview
+<br/>
+<br/>
+📁 **Project Overview**
 
 This project aims to provide clear insights into:
 
@@ -16,16 +13,15 @@ This project aims to provide clear insights into:
 * Magic Formula–style screening
 * Price performance over multiple periods (W/M/Y/YTD)
 * Identification of potentially undervalued or high-potential stocks using data-driven logic
-  
+<br/>
 
-
-📘 Project Purpose
+📘 **Project Purpose**
 
 The goal of this project is to offer a structured, data-driven view of global equity markets by analyzing sectors, industries, fundamentals, and individual company performance.
-
-
-
-🔍 Key Analytical Questions
+<br/>
+<br/>
+<br/>
+🔍 **Key Analytical Questions**
 
 This analysis is guided by the following research questions:
 
@@ -37,10 +33,14 @@ This analysis is guided by the following research questions:
 6) Which stocks show the strongest growth potential? (Identify 3–5 particularly interesting companies.)
 
 These questions form the logical backbone of the entire dashboard.
+<br/>
+<br/>
 
+📚 **Data Sources**:
+1) [Global Stock Market Dataset](https://www.kaggle.com/datasets/mehdiaminazadeh/global-stock-market-dataset)
+2) [Magic Formula Investing](https://www.magicformulainvesting.com/)
+3) [Yahoo Finance](https://finance.yahoo.com/)
+<br/>
 
-📚 Data Sources:
-1) Global Stock Market Dataset (Link: https://www.kaggle.com/datasets/mehdiaminazadeh/global-stock-market-dataset)
-2) https://www.magicformulainvesting.com/
-3) https://finance.yahoo.com/
-
+> [!WARNING]
+> This project is for educational and analytical purposes only and does not constitute financial or investment advice.
